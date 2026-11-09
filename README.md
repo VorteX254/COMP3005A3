@@ -2,7 +2,7 @@
 
 A small Python terminal application that connects to a PostgreSQL database and performs CRUD (Create, Read, Update, Delete) operations on a `students` table.
 
-Video: 
+Video: https://youtu.be/yyhKYvPeu3c
 
 ## Prerequisites
 
